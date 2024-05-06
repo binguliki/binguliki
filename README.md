@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.gif)
 
 
 <h1 align = "center" >Hey 👋 , I'm Bingumalla Likith </h1>
