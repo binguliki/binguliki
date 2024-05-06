@@ -1,6 +1,5 @@
-<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <img src="https://github.com/helblazer811/ManimML/blob/main/assets/readme/dropout.gif" alt="image description" style="max-width: 100%; height: auto;">
-</div>
+![Banner](banner.png)
+
 
 <h1 align = "center" >Hey 👋 , I'm Bingumalla Likith </h1>
 
