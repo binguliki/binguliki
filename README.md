@@ -19,6 +19,7 @@ I'm an enthusiastic ML/DL Engineer who loves solving real-world problems through
 <img align = "left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo" />
+<img align = "left" src="https://devicons.railway.app/i/flask-light.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
 <br/>
 
 #
