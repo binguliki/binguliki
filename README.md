@@ -5,7 +5,7 @@
 
 **`Student | Developer | Researcher`**
 
-I'm an enthusiastic ML/DL Engineer who loves solving real-world problems through hands-on projects. I enjoy learning new things and crafting projects from start to finish. I'm passionate about bringing ideas to life and making a difference in the field that i'm passionate about
+I’m a passionate ML/DL Engineer who loves solving real-world problems through hands-on projects. I enjoy learning new technologies, developing projects from scratch, and crafting innovative solutions. Whether it’s conducting workshops, contributing to open source, or creating scalable systems, I thrive on making an impact in my field. I also take pride in mentoring others and helping foster community growth.
 
 ---
 ### 🧰 Languages and Tools
