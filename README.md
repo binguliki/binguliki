@@ -13,6 +13,8 @@ I’m a passionate ML/DL Engineer who loves solving real-world problems through 
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" style="padding-right: 10px;" alt="cplusplus logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" style="padding-right: 10px;" alt="python logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" style="padding-right: 10px;" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" style="padding-right: 10px;" alt="tensorflow logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40" style="padding-right: 10px;" alt="opencv logo" />
 <img align = "left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
@@ -20,8 +22,8 @@ I’m a passionate ML/DL Engineer who loves solving real-world problems through 
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo" />
 <img align = "left" src="https://devicons.railway.app/i/flask-light.svg" height="40" width="40" style="padding-right: 10px;" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
 <br/>
-
 #
 
 ### 📈 Stats
