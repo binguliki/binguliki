@@ -4,9 +4,8 @@
 
 ```Engineer | Developer | Student```
 
-- ⚙️ MLOPS.
-- 🌴 Learning <strong>Web development</strong>
-- 👨🏽‍🎓 AIML <strong>Co-Lead</strong> at Github Community Vizag.
+- ⚙️ AI Developer
+- 👨🏽‍🎓 President at Github Community Vizag.
 
 <hr>
 
@@ -22,7 +21,7 @@
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries</strong></td>
@@ -37,7 +36,6 @@
 		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,postman,docker,grafana,githubactions&theme=dark">
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
         <img height=30 src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B">
-        <img height=30 src="https://static-00.iconduck.com/assets.00/file-type-dvc-icon-512x293-js3het8o.png">
         </td>
 	</tr>
 </table>
